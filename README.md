@@ -1,5 +1,15 @@
-# 💫 About Me:
-# Hi, I'm AVISKHA BHATTACHARYYA<br><br>B.Tech Computer Science Engineering Student | Aspiring Cybersecurity Engineer | Aspiring Software Engineer | National-Level Archer<br><br>I am a Computer Science Engineering student with a strong interest in Cybersecurity, Software Engineering, and building secure, efficient, and scalable applications. I enjoy solving challenging problems, understanding how systems work at a deeper level, and continuously improving my technical skills through projects and hands-on learning.<br><br>Alongside technology, I am a National-Level Archer, where years of training have taught me discipline, precision, patience, resilience, and the importance of consistent improvement. These values shape the way I approach both engineering and life.<br><br>Currently Learning<br><br>* Cybersecurity<br>* Software Engineering<br>* Data Structures & Algorithms (C++)<br>* Computer Science Fundamentals<br>* Full-Stack Development<br>* Artificial Intelligence & Machine Learning<br>* Cloud Computing<br>* Open Source Development<br><br>Technical Skills<br><br>Programming Languages<br><br>* C++<br>* Python<br>* SQL<br><br>Tools & Technologies<br><br>* Git<br>* GitHub<br>* Microsoft Excel<br>* Visual Studio Code<br><br>Interests<br><br>* Cybersecurity<br>* Secure Software Development<br>* System Design<br>* Competitive Programming<br>* Open Source<br>* Technology Innovation<br>* Sports Analytics<br><br>Hobbies<br><br>* Archery<br>* Reading about emerging technologies<br>* Building programming projects<br>* Learning new tools and technologies<br>* Problem solving<br>* Fitness and self-improvement<br><br>Fun Facts<br><br>* National-Level Archer with a passion for precision and continuous improvement.<br>* I enjoy breaking down complex problems into simple, logical solutions.<br>* I believe the best way to learn is by building real-world projects.<br>* I am committed to becoming a highly skilled Cybersecurity and Software Engineer through consistent learning and practice.<br><br>Current Goals<br><br>* Master Cybersecurity and Software Engineering.<br>* Become proficient in Data Structures & Algorithms.<br>* Build impactful real-world projects.<br>* Contribute to open-source projects.<br>* Continuously improve as a developer and lifelong learner.<br><br>"Discipline drives progress. Curiosity fuels innovation. Consistency builds excellence."<br>
+### Hi, I'm AVISKHA BHATTACHARYYA
+
+B.Tech Computer Science Engineering Student | Aspiring Cybersecurity & Software Engineer | National-Level Archer
+
+I'm passionate about cybersecurity, software engineering, and building secure, efficient, and scalable applications. I enjoy solving problems, learning new technologies, and turning ideas into real-world projects.
+
+**Currently Learning:** Cybersecurity • C++ • Python • SQL • Data Structures & Algorithms • Full-Stack Development • AI & Machine Learning • Cloud Computing
+
+**Tech Stack:** C++ • Python • SQL • Git • GitHub • VS Code • Microsoft Excel
+
+**Fun Fact:** National-Level Archer who believes discipline, consistency, and curiosity are the foundation of growth.
+
 
 
 ## 🌐 Socials:
@@ -24,4 +34,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=aviskhab&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
