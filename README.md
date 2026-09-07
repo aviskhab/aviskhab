@@ -1,4 +1,4 @@
-### Hi, I'm AVISKHA BHATTACHARYYA
+Hi, I'm AVISKHA BHATTACHARYYA
 
 B.Tech Computer Science Engineering Student | Aspiring Cybersecurity & Software Engineer | National-Level Archer
 
@@ -6,7 +6,7 @@ I'm passionate about cybersecurity, software engineering, and building secure, e
 
 **Currently Learning:** Cybersecurity • C++ • Python • SQL • Data Structures & Algorithms • Full-Stack Development • AI & Machine Learning • Cloud Computing
 
-**Tech Stack:** C++ • Python • SQL • Git • GitHub • VS Code • Microsoft Excel
+**Tech Stack:** C++ • Python • SQL • Git • GitHub • VS Code • Microsoft Excel 
 
 **Fun Fact:** National-Level Archer who believes discipline, consistency, and curiosity are the foundation of growth.
 
