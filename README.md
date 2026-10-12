@@ -1,4 +1,4 @@
-Hi, I'm AVISKHA BHATTACHARYYA
+Hi Everyone , Myself AVISKHA BHATTACHARYYA
 
 B.Tech Computer Science Engineering Student | Aspiring Cybersecurity & Software Engineer | National-Level Archer
 
